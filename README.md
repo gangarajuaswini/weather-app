@@ -18,6 +18,3 @@ Visit the demo here: [Weather App](https://gangarajuaswini.github.io/weather-app
 - HTML
 - CSS
 - JavaScript
-
-## License:
-This project is licensed under the MIT License.
